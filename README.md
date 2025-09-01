@@ -47,7 +47,7 @@ flutter build apk --release
 
 Secara umum, struktur folder pada project ini adalah:
 
-ChallengeApp/
+```
 main.dart
 │
 ├───core
@@ -95,6 +95,7 @@ main.dart
     custom_card.dart
     custom_card_user.dart
     custom_podium.dart
+```
 ## 📋 Persyaratan
 
 Flutter SDK (versi terbaru)
