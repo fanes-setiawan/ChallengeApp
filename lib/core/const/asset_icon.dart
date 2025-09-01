@@ -1,10 +1,11 @@
 final String dir = "assets/icons";
 
-String ArrBottom = "$dir/arrow_buttom.svg";
-String ArrLift = "$dir/arrow_lift.svg";
-String CancelIcon = "$dir/cancel_icon.svg";
-String DownIcon = "$dir/down_icon.svg";
-String PlayIcon = "$dir/play_icon";
-String ReportIcon = "$dir/report_icon.svg";
-String ShareIcon = "$dir/share_icon.svg";
-String UpIcon = "$dir/up_icon.svg";
+String arrBottom = "$dir/arrow_bottom.svg";
+String arrLift = "$dir/arrow_lift.svg";
+String cancelIcon = "$dir/cancel_icon.svg";
+String downIcon = "$dir/down_icon.svg";
+String playIcon = "$dir/play_icon.svg";
+String reportIcon = "$dir/report_icon.svg";
+String shareIcon = "$dir/share_icon.svg";
+String upIcon = "$dir/up_icon.svg";
+String crown = "$dir/crown.svg";
